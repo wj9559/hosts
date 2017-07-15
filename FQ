@@ -1,5 +1,7 @@
 ## 2017-07-13 17:24:23
 ## https://github.com/sy618/hosts
+127.0.0.1 localhost
+::1       ip6-localhost
 157.240.15.36 0-edge-chat.facebook.com
 157.240.15.36 0-edge-chat.messenger.com
 216.58.200.192 0-focus-opensocial.googleusercontent.com
